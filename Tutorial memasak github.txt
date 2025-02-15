@@ -1,0 +1,4 @@
+tutor : 
+1. buat repo
+2. upload file
+3. done
