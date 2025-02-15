@@ -1,2 +1,2 @@
 # Tutorial-github
-tutor
+tutorial git dan github
