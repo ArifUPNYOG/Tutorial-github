@@ -2,3 +2,5 @@ tutor :
 1. buat repo
 2. upload file
 3. done
+4. bug fixing
+5. hosting
